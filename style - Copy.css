@@ -1,0 +1,49 @@
+h1 {
+    color: cadetblue;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    background-image: -moz-radial-gradient();
+}
+h2 {
+    color: rgb(230, 230, 238);
+    font-style: italic;
+    font-size: large;
+}
+ h3 {
+     font-family:initial
+ }
+ body {
+     background-image: url("https://c4.wallpaperflare.com/wallpaper/904/1022/350/hud-1-wallpaper-preview.jpg");
+     background-attachment: scroll;
+     background-color: honeydew;
+ }
+ h4 {
+     color: blanchedalmond;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color-interpolation-filters: initial;
+ font-size: medium;
+ }
+ button{
+     font-stretch: semi-expanded;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: unset ;
+    background-blend-mode: saturation;
+    background-color: transparent;
+    background-position-x: unset;
+    box-sizing: initial;
+    position: initial;
+    width: max-content;
+    padding: 5px 30px;
+    color: blanchedalmond;
+ }
+ h5{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     background-color: ;
+     color: blanchedalmond;
+
+    
+ }
+    
+     
+ 
